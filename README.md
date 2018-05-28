@@ -1,5 +1,6 @@
 # 100DaysOfCode
 3 programmers, 1 challenge. 
+
 The rules: [http://www.100daysofcode.com/](http://www.100daysofcode.com/)
 
 ## Useful links

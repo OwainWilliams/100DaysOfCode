@@ -38,6 +38,7 @@ PascalCase - constants
 
 strHungarianNotation - not used in c#
 
+
 ## Real numbers
 The default datatype for real numbers is double. If you want to use decimal or float you need to declare it.
 
@@ -61,4 +62,3 @@ This will thrown an exception. - Overflowing is unlikely to happen in the real w
 Where a variable or constant has meaning and is accessible.
 If you declare a varibale within a block of code e.g. { } then that variable is accessible only within this block.
 If you tried to access the variable outside of the block then it's out of scope.
-

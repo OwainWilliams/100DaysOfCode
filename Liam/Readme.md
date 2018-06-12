@@ -12,3 +12,7 @@
 
  * complete this list
  * Maps things
+
+
+ ### 12-jun-2018
+ * signs you into YouTube if you've got credentials using the API

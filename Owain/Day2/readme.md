@@ -51,5 +51,12 @@ int j = int.Parse(s);
  # Operators
  5 types of operators. 
  Arithmetic, Comparison, Assignment, Logical, Bitwise
- 
+
+|               | Operator      | Example     |
+| ------------- | ------------- |-------------|
+| Add           | +             | a + b |
+| Subtract      | -             | a - b |
+| Multiply      | *             |  a * b|
+| Divide        | /             |  a / b|
+| Remainder     | %             | a % b |
  

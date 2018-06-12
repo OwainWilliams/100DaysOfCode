@@ -1,0 +1,7 @@
+C:\Git\ScottishCoder\100DaysOfCode\100DaysOfCode\Owain\Day 1\program.cs\program.cs\bin\Debug\program.cs.exe.config
+C:\Git\ScottishCoder\100DaysOfCode\100DaysOfCode\Owain\Day 1\program.cs\program.cs\bin\Debug\program.cs.exe
+C:\Git\ScottishCoder\100DaysOfCode\100DaysOfCode\Owain\Day 1\program.cs\program.cs\bin\Debug\program.cs.pdb
+C:\Git\ScottishCoder\100DaysOfCode\100DaysOfCode\Owain\Day 1\program.cs\program.cs\obj\Debug\program.cs.csprojResolveAssemblyReference.cache
+C:\Git\ScottishCoder\100DaysOfCode\100DaysOfCode\Owain\Day 1\program.cs\program.cs\obj\Debug\program.cs.csproj.CoreCompileInputs.cache
+C:\Git\ScottishCoder\100DaysOfCode\100DaysOfCode\Owain\Day 1\program.cs\program.cs\obj\Debug\program.cs.exe
+C:\Git\ScottishCoder\100DaysOfCode\100DaysOfCode\Owain\Day 1\program.cs\program.cs\obj\Debug\program.cs.pdb

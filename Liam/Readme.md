@@ -1,6 +1,11 @@
-# To Do
+# YouTube API thing:
 
-## First set of things
+https://github.com/liamlaverty/YouTube_Things
+
+
+## To Do
+
+### First set of things
 
  * Setup YouTube API
  * Download subtitles into filesystem
@@ -8,7 +13,7 @@
  * Cerate Umb docs from each of the subtitles sets
  * link pages back to videos 
 
- ## Other things...
+ ### Other things...
 
  * complete this list
  * Maps things
@@ -16,3 +21,6 @@
 
  ### 12-jun-2018
  * signs you into YouTube if you've got credentials using the API
+
+ ### 13-jun-2018
+ * ./day 3/index.md

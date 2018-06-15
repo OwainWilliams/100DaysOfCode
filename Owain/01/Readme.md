@@ -1,5 +1,7 @@
 Learning from Udemy tutorial
 
+Started 11 June 2018
+
 ## Variable
 A name given to a storage location in memory
 

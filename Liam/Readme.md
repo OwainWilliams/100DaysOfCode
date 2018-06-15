@@ -24,3 +24,9 @@ https://github.com/liamlaverty/YouTube_Things
 
  ### 13-jun-2018
  * ./day 3/index.md
+
+ ### 14-jun-2018
+ * I did an extra hour of language learning today instead of code 
+
+ ### 15-jun-2018
+ * ./day 5/index.md

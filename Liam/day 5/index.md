@@ -1,4 +1,4 @@
-## day 4
+## day 5
 
 * Refactored the app so that I just get videos instead of splitting them into playlists
 * removed a bunch of code 

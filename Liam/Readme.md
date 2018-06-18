@@ -30,3 +30,6 @@ https://github.com/liamlaverty/YouTube_Things
 
  ### 15-jun-2018
  * ./day 5/index.md
+
+ ### 18-jun-2018
+ * ./day 6/index.md - mostly just looking through YouTube's API permissions settings. 

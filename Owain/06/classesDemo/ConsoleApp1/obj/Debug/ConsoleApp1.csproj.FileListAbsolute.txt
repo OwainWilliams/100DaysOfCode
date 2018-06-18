@@ -1,0 +1,7 @@
+C:\Git\ScottishCoder\100DaysOfCode\100DaysOfCode\Owain\06\classesDemo\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Git\ScottishCoder\100DaysOfCode\100DaysOfCode\Owain\06\classesDemo\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Git\ScottishCoder\100DaysOfCode\100DaysOfCode\Owain\06\classesDemo\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Git\ScottishCoder\100DaysOfCode\100DaysOfCode\Owain\06\classesDemo\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Git\ScottishCoder\100DaysOfCode\100DaysOfCode\Owain\06\classesDemo\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Git\ScottishCoder\100DaysOfCode\100DaysOfCode\Owain\06\classesDemo\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Git\ScottishCoder\100DaysOfCode\100DaysOfCode\Owain\06\classesDemo\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

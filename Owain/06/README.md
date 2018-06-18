@@ -55,3 +55,6 @@ public class Calculator
 }
 ```
 
+# Other stuff
+* Spent the evening looking at the Umbraco Issue Track to see if there was anything I could maybe fix. Also got the latest version of the code base and got it working locally. 
+* Been updaing my website with some more info about me. Working on best plan to move over the blogs from my old site. 

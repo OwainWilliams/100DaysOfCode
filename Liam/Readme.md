@@ -33,3 +33,6 @@ https://github.com/liamlaverty/YouTube_Things
 
  ### 18-jun-2018
  * ./day 6/index.md - mostly just looking through YouTube's API permissions settings. 
+
+  ### 20-jun-2018
+ * ./day 7/index.md - Started working in TS instead of c# 

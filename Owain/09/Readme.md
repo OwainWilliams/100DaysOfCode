@@ -47,7 +47,7 @@ This is an example of reference types and value types.
 ``` var number ``` is a value type so when Console.WriteLine is called, the value returned is 1, the reason for this is Increment destroys the value from number when exiting the method. 
 
 ``` var person ``` however, created a new location in memory and MakeOld also references this same location. The result is age of the person is increased to 30
-![alt text](img/screenshot_example.png)
+![alt text](img/screenshot_example.PNG)
 
 
 

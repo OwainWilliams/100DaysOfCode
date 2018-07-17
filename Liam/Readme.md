@@ -36,3 +36,9 @@ https://github.com/liamlaverty/YouTube_Things
 
   ### 20-jun-2018
  * ./day 7/index.md - Started working in TS instead of c# 
+ 
+ ### 15-july-2018
+ * ./day 8/index.md - Started to do some wireframing for a podcast app
+ 
+ ### 16-july-2018
+ * ./day 9/index.md - continued wireframing for a podcast app

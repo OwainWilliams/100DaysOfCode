@@ -42,3 +42,6 @@ https://github.com/liamlaverty/YouTube_Things
  
  ### 16-july-2018
  * ./day 9/index.md - continued wireframing for a podcast app
+ 
+ ### 17-july-2018
+ * ./day 10/index.md - setup an ionic app
